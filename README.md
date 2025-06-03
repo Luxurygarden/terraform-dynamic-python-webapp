@@ -39,6 +39,11 @@ module "dynamic-python-webapp" {
 Functional examples are included in the
 [examples](./infra/examples/) directory.
 
+## Example Application
+
+A minimal Flask application demonstrating an interactive garden map is available in [app/garden_map](./app/garden_map).
+
+
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Inputs
 
